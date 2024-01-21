@@ -31,7 +31,7 @@ I am a C# Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 - :zap: In my free time, I read technical articles and implement my pet projects.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-- [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Telegram&logoColor=white)](@yamkin_a)
+  [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Telegram&logoColor=white)](t.me/@yamkin_a)
 
 
 
