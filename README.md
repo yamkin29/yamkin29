@@ -18,6 +18,22 @@
 </h1>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+### :man_technologist: About Me :
+I am a C# Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+
+- :telescope: I work as a software engineer and contribute to the front-end and backend for creating desktop and web applications.
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I read technical articles and implement my pet projects.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Telegram&logoColor=white)](@yamkin_a)
+
+
 
 
   
