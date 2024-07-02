@@ -25,7 +25,7 @@
 ### :man_technologist: About Me :
 I am a C# Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :telescope: I work as a software engineer and contribute to the frontend and backend for creating desktop and web applications.
+- :telescope: I work as a software engineer and contribute to the frontend and backend for creating desktop and web applications
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I read technical articles and implement my pet projects.
