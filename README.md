@@ -13,7 +13,7 @@
    <img src="https://komarev.com/ghpvc/?username=yamkin29&style=flat-square&color=blue" alt=""/>
   </a>
   <h1>
-  hey there
+  Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -23,7 +23,7 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a C# Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Fullstack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - :telescope: I work as a software engineer and contribute to the frontend and backend for creating desktop and web applications.
 - :seedling: Exploring Technical Content Writing.
@@ -35,6 +35,7 @@ I am a C# Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title=".net" alt=".net" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title=".net" alt=".net" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".net" alt=".net" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title=".net" alt=".net" width="40" height="40"/>&nbsp;
