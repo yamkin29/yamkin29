@@ -45,9 +45,6 @@ I am a Fullstack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title=".net" alt=".net" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
 [![Codewars Badge](https://www.codewars.com/users/yamkin_a/badges/large)](https://www.codewars.com/users/yamkin_a)
-
-
-
-
-  
