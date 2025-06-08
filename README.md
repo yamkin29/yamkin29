@@ -48,3 +48,5 @@ I am a Fullstack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ---
 
 [![Codewars Badge](https://www.codewars.com/users/yamkin_a/badges/large)](https://www.codewars.com/users/yamkin_a)
+&nbsp;&nbsp;&nbsp;
+[![LeetCode Stats](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode&query=solved&url=https://leetcode-stats-api.herokuapp.com/yamkin92&color=orange)](https://leetcode.com/yamkin92/)
