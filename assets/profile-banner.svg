@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Alexey — Full-stack Developer</title>
+<desc id="desc">React, TypeScript, Node.js and NestJS. Terminal-inspired profile banner.</desc>
+<defs>
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop stop-color="#0b1220"/><stop offset=".55" stop-color="#111c30"/><stop offset="1" stop-color="#19172e"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#61dafb"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+<radialGradient id="cyanGlow" cx="18%" cy="0%" r="75%"><stop stop-color="#155e75" stop-opacity=".28"/><stop offset="1" stop-color="#155e75" stop-opacity="0"/></radialGradient>
+<radialGradient id="violetGlow" cx="95%" cy="95%" r="70%"><stop stop-color="#6d28d9" stop-opacity=".17"/><stop offset="1" stop-color="#6d28d9" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="340" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="340" rx="20" fill="url(#cyanGlow)"/>
+<rect width="1200" height="340" rx="20" fill="url(#violetGlow)"/>
+<path d="M35 62H1165" stroke="#334155"/>
+<circle cx="38" cy="32" r="6" fill="#fb7185"/><circle cx="60" cy="32" r="6" fill="#fbbf24"/><circle cx="82" cy="32" r="6" fill="#34d399"/>
+<text x="112" y="38" fill="#94a3b8" font-family="monospace" font-size="14">alexey / profile.ts</text>
+<text x="55" y="111" fill="#67e8f9" font-family="monospace" font-size="16">$ whoami</text>
+<text x="52" y="183" fill="#f1f5f9" font-family="Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="-2">Hi, I'm Alexey.</text>
+<text x="56" y="223" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="25">Full-stack Developer</text>
+<rect x="56" y="256" width="40" height="3" rx="1.5" fill="url(#accent)"/>
+<text x="56" y="298" fill="#94a3b8" font-family="monospace" font-size="17">React · TypeScript · Node.js · NestJS</text>
+<rect x="810" y="100" width="320" height="194" rx="14" fill="#0b1220" stroke="#334155"/>
+<text x="838" y="141" fill="#64748b" font-family="monospace" font-size="14">// across the stack</text>
+<text x="838" y="187" fill="#67e8f9" font-family="monospace" font-size="24">&lt;interface /&gt;</text>
+<path d="M850 204V233H879" fill="none" stroke="#475569" stroke-width="2"/>
+<text x="896" y="242" fill="#c4b5fd" font-family="monospace" font-size="24">{ api }</text>
+<circle cx="1098" cy="271" r="4" fill="#34d399"/>
+</svg>
