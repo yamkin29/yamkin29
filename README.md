@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Hi, I'm Alexey — Full-stack Developer. React, TypeScript, Node.js, NestJS." />
+  <img src="https://raw.githubusercontent.com/yamkin29/yamkin29/main/assets/profile-banner.svg" width="100%" alt="Hi, I'm Alexey — Full-stack Developer. React, TypeScript, Node.js, NestJS." />
   <br />
   <br />
-  <a href="https://www.linkedin.com/in/alexey-yamkin-845060280/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let%27s_connect-0A66C2?style=flat-square" alt="Connect on LinkedIn" />
+  <a href="https://t.me/yamkin_a">
+    <img src="https://img.shields.io/badge/Telegram-%40yamkin__a-26A5E4?style=flat-square&amp;logo=telegram&amp;logoColor=white" alt="Message @yamkin_a on Telegram" />
   </a>
 </div>
 
@@ -41,9 +41,13 @@ TypeScript is my primary language for connecting both sides. I also build person
 
 [![Codewars profile badge](https://www.codewars.com/users/yamkin_a/badges/large)](https://www.codewars.com/users/yamkin_a)
 
+### 🧩 LeetCode
+
+[![LeetCode stats for yamkin92](https://leetcard.jacoblin.cool/yamkin92?theme=dark&font=Ubuntu&animation=false)](https://leetcode.com/u/yamkin92/)
+
 ---
 
 <div align="center">
   <b>Have something to discuss?</b><br />
-  <a href="https://www.linkedin.com/in/alexey-yamkin-845060280/">Let's connect on LinkedIn ↗</a>
+  <a href="https://t.me/yamkin_a">Message me on Telegram ↗</a>
 </div>
