@@ -2,8 +2,8 @@
   <img src="https://raw.githubusercontent.com/yamkin29/yamkin29/main/assets/profile-banner.svg" width="100%" alt="Hi, I'm Alexey — Full-stack Developer. React, TypeScript, Node.js, NestJS." />
   <br />
   <br />
-  <a href="https://t.me/yamkin_a">
-    <img src="https://img.shields.io/badge/Telegram-%40yamkin__a-26A5E4?style=flat-square&amp;logo=telegram&amp;logoColor=white" alt="Message @yamkin_a on Telegram" />
+  <a href="https://t.me/yamkin29">
+    <img src="https://img.shields.io/badge/Telegram-%40yamkin29-26A5E4?style=flat-square&amp;logo=telegram&amp;logoColor=white" alt="Message @yamkin29 on Telegram" />
   </a>
 </div>
 
