@@ -49,5 +49,5 @@ TypeScript is my primary language for connecting both sides. I also build person
 
 <div align="center">
   <b>Have something to discuss?</b><br />
-  <a href="https://t.me/yamkin_a">Message me on Telegram ↗</a>
+  <a href="https://t.me/yamkin29">Message me on Telegram ↗</a>
 </div>
